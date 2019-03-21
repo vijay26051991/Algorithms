@@ -3,8 +3,8 @@ This repository will help to understand the algorithms and data structures in a 
 
 **Growth of functions:**
  * O(1) *Add an element to an array*
- * log n(also log<sub>2</sub>n) - *Binary search(Divide and conquer method*
- * n -  - *Linear search*
+ * log n(also log<sub>2</sub>n) - *Binary search(Divide and conquer method)*
+ * n - *Linear search*
  * n logn - *Quick sort*
  * n<sup>2</sup> - *Bubble sort*
  * 2<sup>n</sup> - Value is 1024 
