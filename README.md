@@ -10,5 +10,8 @@ This repository will help to understand the algorithms and data structures in a 
  * 2<sup>n</sup> - Value is 1024
  * n! - 10! Value is 3million 
  
-
-https://www.quora.com/How-can-we-check-for-the-complexity-log-n-and-n-log-n-for-an-algorithm
+***
+Links for reference:
+--------------------
+* [All complexities such as complexity log(n) and n (log(n))](https://www.quora.com/How-can-we-check-for-the-complexity-log-n-and-n-log-n-for-an-algorithm)
+* [Big O Notations](https://www.youtube.com/watch?v=V6mKVRU1evU)
